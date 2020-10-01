@@ -8,6 +8,6 @@ public abstract class Shape {
 	//abstract void changeLength();
 	abstract void draw();
 	void display() {
-		System.out.println(" display shape ... length "+length);
+		System.out.print(" display shape ... length "+length);
 	}
 }
