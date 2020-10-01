@@ -19,8 +19,8 @@ void changeLength() {
 		c.draw();
 		c.display();
 		
-		Shape r = new Rectangle();
-		r.draw();
-		r.display();
+		Shape rectangle = new Rectangle();
+		rectangle.draw();
+		rectangle.display();
 	}
 }
